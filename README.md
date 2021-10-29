@@ -27,6 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A aplicação pode ser acessada em [`localhost:3000`](http://localhost:3000).
 
+> #### OBS: Para o projeto funcionar em sua totalidade você deve seguir o passo a passo do [NLW Heat - Node.js](https://github.com/mateus-azevedo/nlw-heat-trilha-node) e rodar ambos simultaneamente
+
 ---
 
 Semana Impulse Rocketseat 👋🏻 &nbsp;[Participe da comunidade!](https://discordapp.com/invite/gCRAFhc)
