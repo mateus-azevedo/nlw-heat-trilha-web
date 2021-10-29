@@ -29,4 +29,4 @@ A aplicação pode ser acessada em [`localhost:3000`](http://localhost:3000).
 
 ---
 
-Feito com ♥ by Rocketseat 👋🏻 &nbsp;[Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Semana Impulse Rocketseat 👋🏻 &nbsp;[Participe da comunidade!](https://discordapp.com/invite/gCRAFhc)
