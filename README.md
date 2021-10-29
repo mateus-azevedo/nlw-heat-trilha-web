@@ -21,8 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Como executar
 
-> Obs.: Nesse projeto temos autenticação via OAuth com o GitHub
-
 - Clone o repositório e acesse a pasta;
 - Instale as dependências com `yarn`;
 - Inicie o servidor com `yarn dev`;
